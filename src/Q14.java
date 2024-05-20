@@ -1,4 +1,4 @@
-class Rectangle {
+class Rectangle23 {
     int length;
     int bresath;
 
@@ -24,7 +24,7 @@ class Rectangle {
 
 public class Q14 {
     public static void main(String[] args) {
-        Rectangle s1 = new Rectangle();
+        Rectangle23 s1 = new Rectangle23();
         s1.length = 21;
         s1.bresath = 45;
         System.out.println(s1.area());
